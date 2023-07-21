@@ -1,0 +1,52 @@
+body{
+    background-color: rgba(253, 213, 220, 0.993);
+    color:black;
+    font-family: 'Diphylleia', serif;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Roboto', sans-serif;
+}
+
+.titulo{
+    color:#A53960;
+    text-align: center;
+    font-family: 'Diphylleia', serif;
+    font-size: 70px;
+}
+
+.menu{
+    display: flex;
+    align-items: center;
+    /*justify-content: center;
+    background-color: beige;*/
+    flex-direction: column;
+}
+img{
+    width: 100px;
+}
+.axohappy{
+    width: 20%;
+    display: flex;  
+    margin-left: 40%;  
+}
+a{
+    color:#A53960;
+    text-decoration:dotted ;
+}
+h1{
+    text-align: center;
+    color: black;
+}
+p{
+    color:rgb(14, 0, 14);
+}
+
+.axo{
+    width: 20%;
+    display: flex;
+    margin-left: 40%;
+}
+.titulos{
+    font-family: cursive;
+    text-align: center;
+    color:#A53960;
+}
